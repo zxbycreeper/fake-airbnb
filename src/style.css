@@ -59,7 +59,11 @@ section {
 
 .card--image {
     width: 100%;
+<<<<<<< HEAD
     border-radius: 12px;
+=======
+    border-radius: 9px;
+>>>>>>> b03a745c60f4d928ce09690a05b2c44288208a16
 }
 
 .card--stats {
