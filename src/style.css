@@ -74,6 +74,12 @@ section {
     border-radius: 9px;
 }
 
+.card--title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
 .card--stats {
     display: flex;
     align-items: center;
